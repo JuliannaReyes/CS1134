@@ -1,3 +1,3 @@
 # CS1134
-New York University-Tandon CS-UY 2124 Codes\n
-Divided into Homeworks and Labs 
+New York University-Tandon CS-UY 2124 Codes 
+divided into Homeworks and Labs 
